@@ -1,0 +1,27 @@
+{
+  "name": "mongoosecrossfit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeders/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanianking/MongooseCrossfit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanianking/MongooseCrossfit/issues"
+  },
+  "homepage": "https://github.com/seanianking/MongooseCrossfit#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.9",
+    "morgan": "^1.10.0"
+  }
+}
