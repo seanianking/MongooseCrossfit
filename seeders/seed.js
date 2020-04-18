@@ -12,10 +12,10 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Bicep Curl",
+        name: "Dinosaur Deadlift",
         duration: 20,
-        weight: 100,
-        reps: 10,
+        weight: 250,
+        reps: 8,
         sets: 4
       }
     ]
@@ -25,10 +25,10 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Lateral Pull",
+        name: "Cheetah Chest Press",
         duration: 20,
-        weight: 300,
-        reps: 10,
+        weight: 85,
+        reps: 20,
         sets: 4
       }
     ]
@@ -38,7 +38,7 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Push Press",
+        name: "Elephant Leg Press",
         duration: 25,
         weight: 185,
         reps: 8,
@@ -51,7 +51,7 @@ let workoutSeed = [
     exercises: [
       {
         type: "cardio",
-        name: "Running",
+        name: "Horny Toad Jump Rope",
         duration: 25,
         distance: 4
       }
@@ -62,9 +62,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Bench Press",
+        name: "Silver Back Side Raises",
         duration: 20,
-        weight: 285,
+        weight: 85,
         reps: 10,
         sets: 4
       }
@@ -75,7 +75,7 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Bench Press",
+        name: "Panda Power Cleans",
         duration: 20,
         weight: 300,
         reps: 10,
@@ -88,7 +88,7 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Quad Press",
+        name: "Quilfish Quad Press",
         duration: 30,
         weight: 300,
         reps: 10,
@@ -101,7 +101,7 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Bench Press",
+        name: "Tasmanian Devil Tricep Press",
         duration: 20,
         weight: 300,
         reps: 10,
@@ -114,7 +114,7 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Military Press",
+        name: "Mongoose Military Press",
         duration: 20,
         weight: 300,
         reps: 10,
@@ -127,7 +127,7 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Bench",
+        name: "Shibu Inu Shrugs",
         duration: 30,
         distance: 2
       }
