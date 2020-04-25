@@ -5,7 +5,7 @@ const Schema = mongoose.Schema;
 //Build the schema that matches each of the parameters
 //and keys for the seed file
 
-const workoutScema = new Schema(
+const workoutSchema = new Schema(
     {
         day: {
             type: Date,
@@ -53,6 +53,6 @@ workoutSchema.virtual('totalDuration').get(function () {
     }, 0);
 });
 
-const Workout = mongoose.model('Workout', workoutScema);
+const Workout = mongoose.model('Workout', workoutSchema);
 
 module.exports = Workout;
