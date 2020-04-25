@@ -1,6 +1,8 @@
 # MongooseCrossfit
 
-- 
+## Link to Deployed application
+
+- https://mongoose-workout.herokuapp.com/
 
 ## Link to the GitHub repo
 
